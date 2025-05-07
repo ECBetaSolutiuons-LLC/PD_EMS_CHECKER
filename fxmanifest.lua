@@ -1,7 +1,7 @@
 fx_version 'cereluan'
 game 'gta5'
 
-author 'GMAN'
+author 'ECBetaSolutions LLC'
 description 'PD and EMS checker'
 version '1.0'
 
